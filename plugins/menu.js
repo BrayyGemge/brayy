@@ -442,7 +442,7 @@ const wita = moment.tz('Asia/Makassar').format("HH:mm:ss")
 ╰────❏
 
 ╭─❏「 Source Info 」
-┣❏ *Github* : *Github* : https://github.com/Fernazer
+┣❏ *Github* : *Github* : https://github.com/BrayyGemge
 ┣❏ *Yutub* : YouTube* : https://youtube.com/channel/UCjRNs2AZw3vJEpLT8LejUFg
 ┣❏ *Grup* : https://chat.whatsapp.com/IABh05rfP24JLGKWu8U5tE
 ╰────❏
